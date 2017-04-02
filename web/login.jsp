@@ -1,7 +1,7 @@
 <%-- 
     Document   : login
     Created on : 23 Mar, 2017, 1:20:44 PM
-    Author     : aditya
+    Author     : aditya vashishtha
 --%>
 
 <%@page import="java.sql.DriverManager"%>
